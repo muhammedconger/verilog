@@ -1,7 +1,13 @@
 # Verilog Notları
-İçerik giriş-orta seviye düzeyindedir. İyi anlaşılabilmesi için lojik tasarım ve temel bilgisayar mimarisi konularının özümsenmiş olması faydalı olacaktır. Yaklaşık 2500 satır markdown'dan oluşan bu eğitsel, herhangi bir donanım tanımlama dili bilgisi bulunmayan biri için 20 günlük bir çalışma ile tamamlanabilir halde, öz olarak işlenmiştir. Öğrenim sürecinde donanım tanımlama dillerindeki işleyiş ile yazılım dillerinin işleyişi arasında benzerlik veya ilişki kurmamak sağlıklı bir öğrenim sağlayacaktır.
 
-_Muhammed Conger_
+Bu çalışma, Verilog HDL öğrenme sürecinde tuttuğum teknik notların zaman içerisinde düzenlenmesi ve genişletilmesiyle oluşmuştur.
+
+İçerik giriş ve orta seviye düzeyindedir. Verilog sözdizimi ve temel HDL kavramlarından başlayarak sayısal tasarım, RTL modelleme, testbench, FSM, bellek modelleme ve sentez konularına uzanmaktadır.
+
+Konuların daha etkin takip edilebilmesi için temel lojik tasarım ve bilgisayar mimarisi bilgisi faydalı olacaktır.
+
+Çalışma boyunca Verilog'un bir yazılım dili yaklaşımıyla değil, sayısal donanımın yapısını ve davranışını tanımlayan bir donanım tanımlama dili (HDL) olarak ele alınması esas alınmıştır.
+
 
 ## Tasarım Modelleri
 Verilog ile 3 tür modelde tasarım yapılabilir.
