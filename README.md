@@ -7,5 +7,3 @@ Verilog HDL öğrenme sürecinde tuttuğum teknik notların düzenlenmesi ve gen
 Notlar, konuları öğrenirken yalnızca sözdizimini değil, yazılan HDL kodunun temsil ettiği donanım yapısını anlamaya odaklanacak şekilde oluşturulmuştur.
 
 İçeriğin daha rahat takip edilebilmesi için temel lojik tasarım ve bilgisayar mimarisi bilgisi faydalı olacaktır.
-
-_Muhammed Conger_
