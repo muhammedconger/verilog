@@ -1,4 +1,11 @@
-# Verilog Eğitseli
-## Bu repo bir verilog eğitselidir. İçerik giriş-orta seviye düzeyindedir. İyi anlaşılabilmesi için lojik tasarım ve temel bilgisayar mimarisi konularının özümsenmiş olması faydalı olacaktır. Yaklaşık 2500 satır markdown'dan oluşan bu eğitsel, herhangi bir donanım tanımlama dili bilgisi bulunmayan biri için 20 günlük bir çalışma ile tamamlanabilir halde, öz olarak işlenmiştir. Öğrenim sürecinde donanım tanımlama dillerindeki işleyiş ile yazılım dillerinin işleyişi arasında benzerlik veya ilişki kurmamak sağlıklı bir öğrenim sağlayacaktır.
+# Verilog Notları
 
-Muhammed Conger
+Verilog HDL öğrenme sürecinde tuttuğum teknik notların düzenlenmesi ve genişletilmesiyle oluşan çalışma.
+
+İçerik, temel Verilog sözdiziminden başlayarak sayısal tasarım, RTL modelleme, testbench, FSM, bellek modelleme ve sentez konularına kadar giriş ve orta seviye başlıkları kapsamaktadır.
+
+Notlar, konuları öğrenirken yalnızca sözdizimini değil, yazılan HDL kodunun temsil ettiği donanım yapısını anlamaya odaklanacak şekilde oluşturulmuştur.
+
+İçeriğin daha rahat takip edilebilmesi için temel lojik tasarım ve bilgisayar mimarisi bilgisi faydalı olacaktır.
+
+_Muhammed Conger_
